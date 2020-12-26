@@ -3,7 +3,7 @@
 ## SetUp
 
 ```
-git clone
+git clone https://github.com/jyotiprakash-m/AppLandingWebsite-reactJs-Devine.git
 cd AppLandingWebsite-reactJs-Devine
 npm start
 ```
