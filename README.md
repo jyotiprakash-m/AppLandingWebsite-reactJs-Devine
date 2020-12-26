@@ -5,6 +5,7 @@
 ```
 # git clone https://github.com/jyotiprakash-m/AppLandingWebsite-reactJs-Devine.git
 # cd AppLandingWebsite-reactJs-Devine
+# npm install
 # npm start
 ```
 
