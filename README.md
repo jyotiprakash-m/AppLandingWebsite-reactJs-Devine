@@ -10,7 +10,7 @@ npm start
 
 ## Demo website
 
-<img src=".working-video.gif" alt="working of unitConverter"/>
+<img src="./working-video.gif" alt="working of Devine"/>
 
 ## Live on
 
